@@ -319,7 +319,7 @@
         {
             "id": 3,
             "nom": "habitacio3",
-            "llits": ["sofa cama", "doble"],
+            "llits": ["sofa llit", "doble"],
             "serveis": ["dutxa", "wc"],
             "preu": {
                 "temporadaAlta": {
