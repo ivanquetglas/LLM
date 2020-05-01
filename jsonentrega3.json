@@ -231,13 +231,13 @@
                     "preuAgregador1": {
                         "preuNitNet": 81,
                         "imposts": 21,
-                        "comissio": 4,
+                        "comisio": 4,
                         "moneda": "€"
                     },
                     "preuAgregador2": {
                         "preuNitNet": 83,
                         "imposts": 21,
-                        "comissio": 5,
+                        "comisio": 5,
                         "moneda": "€"
                     }
                 },
@@ -245,13 +245,13 @@
                     "preuAgregador1": {
                         "preuNitNet": 41,
                         "imposts": 21,
-                        "comissio": 5,
+                        "comisio": 5,
                         "moneda": "€"
                     },
                     "preuAgregador2": {
                         "preuNitNet": 43,
                         "imposts": 21,
-                        "comissio": 5,
+                        "comisio": 5,
                         "moneda": "€"
                     }
                 }
@@ -278,13 +278,13 @@
                     "preuAgregador1": {
                         "preuNitNet": 71,
                         "imposts": 21,
-                        "comissio": 5,
+                        "comisio": 5,
                         "moneda": "€"
                     },
                     "preuAgregador2": {
                         "preuNitNet": 73,
                         "imposts": 21,
-                        "comissio": 4,
+                        "comisio": 4,
                         "moneda": "€"
                     }
                 },
@@ -292,13 +292,13 @@
                     "preuAgregador1": {
                         "preuNitNet": 36,
                         "imposts": 21,
-                        "comissio": 4,
+                        "comisio": 4,
                         "moneda": "€"
                     },
                     "preuAgregador2": {
                         "preuNitNet": 37,
                         "imposts": 21,
-                        "comissio": 4,
+                        "comisio": 4,
                         "moneda": "€"
                     }
                 }
@@ -399,19 +399,19 @@
                     "preuAgregador1": {
                         "preuNitNet": 40,
                         "imposts": 21,
-                        "comissio": 2,
+                        "comisio": 2,
                         "moneda": "€"
                     },
                     "preuAgregador2": {
                         "preuNitNet": 41,
                         "imposts": 21,
-                        "comissio": 3,
+                        "comisio": 3,
                         "moneda": "€"
                     },
                     "preuAgregador3": {
                         "preuNitNet": 43,
                         "imposts": 21,
-                        "comissio": 1,
+                        "comisio": 1,
                         "moneda": "€"
                     }
                 },
@@ -419,19 +419,19 @@
                     "preuAgregador1": {
                         "preuNitNet": 20,
                         "imposts": 21,
-                        "comissio": 2,
+                        "comisio": 2,
                         "moneda": "€"
                     },
                     "preuAgregador2": {
                         "preuNitNet": 22,
                         "imposts": 21,
-                        "comissio": 1,
+                        "comisio": 1,
                         "moneda": "€"
                     },
                     "preuAgregador3": {
                         "preuNitNet": 24,
                         "imposts": 21,
-                        "comissio": 1,
+                        "comisio": 1,
                         "moneda": "€"
                     }
                 }
@@ -458,19 +458,19 @@
                     "preuAgregador1": {
                         "preuNitNet": 60,
                         "imposts": 21,
-                        "comissio": 3,
+                        "comisio": 3,
                         "moneda": "€"
                     },
                     "preuAgregador2": {
                         "preuNitNet": 62,
                         "imposts": 21,
-                        "comissio": 3,
+                        "comisio": 3,
                         "moneda": "€"
                     },
                     "preuAgregador3": {
                         "preuNitNet": 61,
                         "imposts": 21,
-                        "comissio": 2,
+                        "comisio": 2,
                         "moneda": "€"
                     }
                 },
@@ -478,19 +478,19 @@
                     "preuAgregador1": {
                         "preuNitNet": 30,
                         "imposts": 21,
-                        "comissio": 2,
+                        "comisio": 2,
                         "moneda": "€"
                     },
                     "preuAgregador2": {
                         "preuNitNet": 32,
                         "imposts": 21,
-                        "comissio": 2,
+                        "comisio": 2,
                         "moneda": "€"
                     },
                     "preuAgregador3": {
                         "preuNitNet": 34,
                         "imposts": 21,
-                        "comissio": 3,
+                        "comisio": 3,
                         "moneda": "€"
                     }
                 }
@@ -518,19 +518,19 @@
                     "preuAgregador1": {
                         "preuNitNet": 65,
                         "imposts": 21,
-                        "comissio": 2,
+                        "comisio": 2,
                         "moneda": "€"
                     },
                     "preuAgregador2": {
                         "preuNitNet": 66,
                         "imposts": 21,
-                        "comissio": 2,
+                        "comisio": 2,
                         "moneda": "€"
                     },
                     "preuAgregador3": {
                         "preuNitNet": 68,
                         "imposts": 21,
-                        "comissio": 3,
+                        "comisio": 3,
                         "moneda": "€"
                     }
                 },
@@ -538,19 +538,19 @@
                     "preuAgregador1": {
                         "preuNitNet": 35,
                         "imposts": 21,
-                        "comissio": 2,
+                        "comisio": 2,
                         "moneda": "€"
                     },
                     "preuAgregador2": {
                         "preuNitNet": 37,
                         "imposts": 21,
-                        "comissio": 2,
+                        "comisio": 2,
                         "moneda": "€"
                     },
                     "preuAgregador3": {
                         "preuNitNet": 40,
                         "imposts": 21,
-                        "comissio": 2,
+                        "comisio": 2,
                         "moneda": "€"
                     }
                 }
