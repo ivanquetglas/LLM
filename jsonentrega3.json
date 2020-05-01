@@ -445,7 +445,7 @@
             "tv": ["tdt", "orange"],
             "climatització": ["aire acondicionat", "calefecció"],
             "habitacionsDisponibles":3,
-            "imatges":"img/campenile1.jpg"
+            "imatges":"img/campanile1.jpg"
         },
 
         {
@@ -504,7 +504,7 @@
             "tv": ["tdt", "orange"],
             "climatització": ["calefecció"],
             "habitacionsDisponibles":5,
-            "imatges":"img/campenile2.jpg"
+            "imatges":"img/campanile2.jpg"
         },
 
 
@@ -564,7 +564,7 @@
             "tv": ["tdt", "orange"],
             "climatització": ["aire acondicionat"],
             "habitacionsDisponibles":3,
-            "imatges":"img/campenile3.jpg"
+            "imatges":"img/campanile3.jpg"
         }
     ]
 }
