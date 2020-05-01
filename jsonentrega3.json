@@ -77,7 +77,7 @@
             "ServeiDeNateja": true,
             "tv": ["tdt", "movistar"],
             "climatització": ["aire acondicionat", "calefecció"],
-            "habitacions disponibles":3,
+            "habitacionsDisponibles":3,
             "imagenes":"img/hilton1.png"
            
         },
@@ -137,7 +137,7 @@
             "ServeiDeNateja": true,
             "tv": ["tdt", "movistar"],
             "climatització": ["aire acondicionat", "calefecció"],
-            "habitacions disponibles":4,
+            "habitacionsDisponibles":4,
             "imagenes":"img/hilton2.png"
 
         },
@@ -198,7 +198,7 @@
             "ServeiDeNateja": true,
             "tv": ["tdt", "movistar"],
             "climatització": ["aire acondicionat"],
-            "habitacions disponibles":1,
+            "habitacionsDisponibles":1,
             "imagenes":"img/hilton3.png"
         }
 
@@ -264,7 +264,7 @@
             "ServeiDeNateja": true,
             "tv": ["tdt", "movistar", "futbol"],
             "climatització": ["aire acondicionat", "calefecció"],
-            "habitacions disponibles":10,
+            "habitacionsDisponibles":10,
             "imagenes":"img/reinasofia1.png"
         },
 
@@ -311,7 +311,7 @@
             "ServeiDeNateja": true,
             "tv": ["tdt", "movistar"],
             "climatització": ["aire acondicionat", "calefecció"],
-            "habitacions disponibles":6,
+            "habitacionsDisponibles":6,
             "imagenes":"img/reinasofia2.png"
         },
 
@@ -360,7 +360,7 @@
             "ServeiDeNateja": false,
             "tv": ["tdt", "movistar"],
             "climatització": ["calefecció"],
-            "habitacions disponibles":11,
+            "habitacionsDisponibles":11,
             "imagenes":"img/reinasofia3.png"
         }
 
@@ -444,7 +444,7 @@
             "ServeiDeNateja": true,
             "tv": ["tdt", "orange"],
             "climatització": ["aire acondicionat", "calefecció"],
-            "habitacions disponibles":3,
+            "habitacionsDisponibles":3,
             "imagenes":"img/campenile1.png"
         },
 
@@ -503,7 +503,7 @@
             "ServeiDeNateja": true,
             "tv": ["tdt", "orange"],
             "climatització": ["calefecció"],
-            "habitacions disponibles":5,
+            "habitacionsDisponibles":5,
             "imagenes":"img/campenile2.png"
         },
 
@@ -563,7 +563,7 @@
             "ServeiDeNateja": true,
             "tv": ["tdt", "orange"],
             "climatització": ["aire acondicionat"],
-            "habitacions disponibles":3,
+            "habitacionsDisponibles":3,
             "imagenes":"img/campenile3.png"
         }
     ]
