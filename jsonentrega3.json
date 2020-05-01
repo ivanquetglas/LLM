@@ -78,7 +78,7 @@
             "tv": ["tdt", "movistar"],
             "climatització": ["aire acondicionat", "calefecció"],
             "habitacionsDisponibles":3,
-            "imagenes":"img/hilton1.png"
+            "imatges":"img/hilton1.jpg"
            
         },
 
@@ -138,7 +138,7 @@
             "tv": ["tdt", "movistar"],
             "climatització": ["aire acondicionat", "calefecció"],
             "habitacionsDisponibles":4,
-            "imagenes":"img/hilton2.png"
+            "imatges":"img/hilton2.jpg"
 
         },
 
@@ -199,7 +199,7 @@
             "tv": ["tdt", "movistar"],
             "climatització": ["aire acondicionat"],
             "habitacionsDisponibles":1,
-            "imagenes":"img/hilton3.png"
+            "imatges":"img/hilton3.jpg"
         }
 
     ]
@@ -265,7 +265,7 @@
             "tv": ["tdt", "movistar", "futbol"],
             "climatització": ["aire acondicionat", "calefecció"],
             "habitacionsDisponibles":10,
-            "imagenes":"img/reinasofia1.png"
+            "imatges":"img/reinasofia1.jpg"
         },
 
         {
@@ -312,7 +312,7 @@
             "tv": ["tdt", "movistar"],
             "climatització": ["aire acondicionat", "calefecció"],
             "habitacionsDisponibles":6,
-            "imagenes":"img/reinasofia2.png"
+            "imatges":"img/reinasofia2.jpg"
         },
 
 
@@ -361,7 +361,7 @@
             "tv": ["tdt", "movistar"],
             "climatització": ["calefecció"],
             "habitacionsDisponibles":11,
-            "imagenes":"img/reinasofia3.png"
+            "imatges":"img/reinasofia3.jpg"
         }
 
     ]
@@ -445,7 +445,7 @@
             "tv": ["tdt", "orange"],
             "climatització": ["aire acondicionat", "calefecció"],
             "habitacionsDisponibles":3,
-            "imagenes":"img/campenile1.png"
+            "imatges":"img/campenile1.jpg"
         },
 
         {
@@ -504,7 +504,7 @@
             "tv": ["tdt", "orange"],
             "climatització": ["calefecció"],
             "habitacionsDisponibles":5,
-            "imagenes":"img/campenile2.png"
+            "imatges":"img/campenile2.jpg"
         },
 
 
@@ -564,7 +564,7 @@
             "tv": ["tdt", "orange"],
             "climatització": ["aire acondicionat"],
             "habitacionsDisponibles":3,
-            "imagenes":"img/campenile3.png"
+            "imatges":"img/campenile3.jpg"
         }
     ]
 }
